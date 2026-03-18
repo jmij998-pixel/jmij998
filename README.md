@@ -28,7 +28,7 @@ public class Main{
                         role:       "Full Stack Developer",
                         focus:      ["Building cool stuff", "Open Source", "Clean Code"],
                         currentlyLearning: ["Java", "Python", "AI/ML"],
-                        guidingPrinciple:    "To succeed you must believe that you can",
+                        guidingPrinciple:    "To succeed you must believe that you can.",
                         openTo:     ["Collaborations", "Freelance", "Full-time roles"]);
      }
 }
@@ -75,6 +75,11 @@ public class Main{
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Repository**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
