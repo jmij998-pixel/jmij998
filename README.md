@@ -21,15 +21,18 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const me = {
-  name:       "Your Name",
-  location:   "📍 Your City, Country",
-  role:       "Full Stack Developer",
-  focus:      ["Building cool stuff", "Open Source", "Clean Code"],
-  currentlyLearning: ["Rust", "WebAssembly", "AI/ML"],
-  funFact:    "I debug with console.log and I'm not ashamed 🙃",
-  openTo:     ["Collaborations", "Freelance", "Full-time roles"],
-};
+public class Main{
+  public static void main(String[] args){
+     Sytem.out.println (name:       "Your Name",
+                        location:   "📍 Your City, Country",
+                        role:       "Full Stack Developer",
+                        focus:      ["Building cool stuff", "Open Source", "Clean Code"],
+                        currentlyLearning: ["Rust", "WebAssembly", "AI/ML"],
+                        funFact:    "I debug with console.log and I'm not ashamed 🙃",
+                        openTo:     ["Collaborations", "Freelance", "Full-time roles"]);
+     }
+}
+
 ```
 
 ---
