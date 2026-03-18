@@ -23,12 +23,12 @@
 ```typescript
 public class Main{
   public static void main(String[] args){
-     Sytem.out.println (name:       "Your Name",
-                        location:   "📍 Your City, Country",
+     Sytem.out.println (name:       "Jmij998",
+                        location:   "📍 My City, My Country",
                         role:       "Full Stack Developer",
                         focus:      ["Building cool stuff", "Open Source", "Clean Code"],
-                        currentlyLearning: ["Rust", "WebAssembly", "AI/ML"],
-                        funFact:    "I debug with console.log and I'm not ashamed 🙃",
+                        currentlyLearning: ["Java", "Python", "AI/ML"],
+                        guidingPrinciple:    "To succeed you must believe that you can",
                         openTo:     ["Collaborations", "Freelance", "Full-time roles"]);
      }
 }
