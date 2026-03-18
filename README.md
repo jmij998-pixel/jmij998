@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- JmiJ998 Files -->
+<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20there!%20I'm%20[JmiJ998 Files]%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%2C%20one%20commit%20at%20a%20time&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
